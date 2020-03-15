@@ -1,9 +1,9 @@
 import React, { Component } from "react";
 import { BrowserRouter, Route } from "react-router-dom";
 
-import LoginForm from "./components/LoginForm";
-import CharactersList from "./components/CharactersList";
-import CharacterDetails from "./components/CharacterDetails";
+import LoginForm from "./components/LoginForm/LoginForm";
+import CharactersList from "./components/CharactersList/CharactersList";
+import CharacterDetails from "./components/CharacterDetails/CharacterDetails";
 
 class App extends Component {
   render() {
