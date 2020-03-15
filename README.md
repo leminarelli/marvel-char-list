@@ -1,29 +1,23 @@
-# README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+### Demo ###
 
-### What is this repository for? ###
+* https://marvel-list-app.herokuapp.com/
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+### How it works? :) ###
 
-### How do I get set up? ###
+In the project directory, you can run:
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* npm install
 
-### Contribution guidelines ###
+* npm start
+Runs the app in the development mode.
+Open http://localhost:9000 to view it in the browser.
 
-* Writing tests
-* Code review
-* Other guidelines
+* npm test
+Launches the test runner in the interactive watch mode.
 
-### Who do I talk to? ###
+* npm run build
+Builds the app for production to the build folder.
 
-* Repo owner or admin
-* Other community or team contact
+
+
